@@ -14,7 +14,7 @@
 - **Power BI**: Integrated for dynamic reporting and visualization of both the insights and the forecasted result.
 - **Security**: Reinforced through the implementation of Azure Active Directory and Key Vault for mounting Datalake on Databricks.
 
-## Workflow
+## Project Workflow
 1. **Data Ingestion**: Data from the Data Lake Gen 2 is ingested into Azure Databricks through mounting with appropriate Key Valut secrets.
 2. **Data Processing**: The ingested data underwent transformation through Databricks, ensuring it was formatted and optimized for analysis.
 3. **Data Analysis for Business Insights**: The transformed data is then further analysed using user defines pyspark functions for each of the customer features and plots are shown.
