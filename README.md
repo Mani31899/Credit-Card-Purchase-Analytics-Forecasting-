@@ -4,6 +4,7 @@
 **1. Data Transformation and Machine Learning Model Development**
    - Designed analytical transformations for customer credit data in Azure Databricks.
    - Developed an 90% accurate Classification Machine Learning model for credit card purchase prediction.
+
 **2. Integration with Visualization Tools**
    - Integrated the analysis and the model with Power BI to display the analysis as a dashboard.
    - Utilized over 10 features for comprehensive visualization and analysis.
